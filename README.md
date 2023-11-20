@@ -117,5 +117,5 @@ Execute the program
 
 # OUPUT
 
-![Screenshot 2023-11-20 145753](https://github.com/23002776/ODD2023-WT-Ex-03-Timetable/assets/145742657/8057495c-d65a-4bf9-927c-41fd5e84e93a)
 
+![Screenshot (7)](https://github.com/23002776/ODD2023-WT-Ex-03-Timetable/assets/145742657/2e15c609-fd79-4a1d-8f69-2ebe392a1275)
